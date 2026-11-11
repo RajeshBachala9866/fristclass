@@ -8,6 +8,7 @@ class car{
         System.out.println("i can play music");
     }
 }
+//I can code as well as i can drive and play music
 
 public class Demolab1 {
     public static void main(String[] args) {
