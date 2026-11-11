@@ -9,7 +9,6 @@ abstract class car
     {
         System.out.println("I can play music");
     }
-    //first change
 
 }
 class Maruthi extends car
